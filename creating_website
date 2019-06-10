@@ -1,0 +1,10 @@
+Steps to create a website using minimal mistakes academic pages (github/jekyll)
+
+1. Install homebrew (package manager for mac) 
+2. Install rbenv (and follow all steps for Ruby from here: https://gorails.com/setup/osx/10.13-high-sierra)
+3. Clone the github folder locally
+4. Go to the github folder in terminal
+5. Run the instructions which are on the minimal mistakes instructions ("To run locally")
+
+Running local server:
+bundle exec jekyll liveserve
