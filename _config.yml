@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Manaswini Rao / Personal Website"
+title                    : "Manaswini Rao"
 title_separator          : "-"
 name                     : &name "Manaswini Rao"
 description              : &description "personal description"
