@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download CV here](http://manaswinirao.com/files/manaswini-cv.pdf)
+ <span style="color:blue">[Download CV here]</span>(http://manaswinirao.com/files/manaswini-cv-jm.pdf)
 
 Education
 ======
@@ -78,7 +78,7 @@ Professional Experience
   * PIs: Abhijit Banerjee, Emily Breza, Arun Chandrasekhar, Iqbal Dhaliwal, Esther Duflo, Rema Hanna
 * Consultant, Asian Development Bank, 2009-2010
 * Associate, Janaagraha Center for Citizenship and Democracy, 2006-2008
-* Software Engineer, Infosys, 2014
+* Software Engineer, Infosys, 2004
   
 Service and leadership
 ======
