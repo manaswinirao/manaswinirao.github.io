@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
- <span style="color:blue">[Download CV here]</span>(http://manaswinirao.com/files/manaswini-cv-jm.pdf)
+ <span style="color:blue">[Download CV here](http://manaswinirao.com/files/manaswini-cv-jm.pdf)</span>
 
 Education
 ======
