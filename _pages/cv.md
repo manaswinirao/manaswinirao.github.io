@@ -19,6 +19,8 @@ Education
 
 Honors and Awards
 ======
+* UC Berkeley Conference Travel Grant, US$ 900, 2019
+* The Jean O. Lanjouw Memorial Endowment, US$ 757, 2019
 * IRLE Graduate Student Research Award, US$ 6000, with Vaishnavi Surendra, 2018
 * World Bank Proposal Development Grant, US$ 30000, with Xavier Gine, Aprajit Mahajan, and Anup Malani, 2018
 * ATAI Grant, US$ 223,565, with Aprajit Mahajan, Xavier Gine, and Anup Malani, 2017
