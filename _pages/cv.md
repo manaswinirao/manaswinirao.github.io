@@ -13,7 +13,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Agricultural and Resource Economics, University of California Berkeley, 2020 (expected)
-  * Committee: Aprajit Mahajan (Chair), Elisabeth Sadoulet
+  * Advisors: Aprajit Mahajan (Chair), Elisabeth Sadoulet, Frederico Finan
 * M.P.P. (Public Policy), University of California Berkeley, 2010
 * B.E. in Computer Science and Engineering, B.M.S. College of Engineering, Bangalore, 2004
 
