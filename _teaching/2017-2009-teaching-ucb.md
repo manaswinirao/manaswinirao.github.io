@@ -6,9 +6,7 @@ permalink: /teaching/2017-2009-teaching-ucb
 venue: "University of California, Berkeley"
 date: 2017-12-31
 location: "Berkeley, USA"
----
-
-Courses TA-ed at UC Berkeley (Agricultural Resource Economics, and Econonomics Departments)
+excerpt: 'Courses TA-ed at UC Berkeley (Agricultural Resource Economics, and Econonomics Departments)
 
 * International Economic Development Policy (AREC 253), Fall 2017
 
@@ -24,4 +22,6 @@ An undergraduate course in Macroeconomics.
 
 * Economic History (ECON 115), Fall 2009
 
-An undergraduate course in 20th Century Economic History.
+An undergraduate course in 20th Century Economic History.'
+---
+
