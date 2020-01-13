@@ -12,7 +12,7 @@ I am a doctoral candidate in Development Economics at the Department of Agricult
 
 Another track of my research agenda focuses on agricultural markets, where I study technology adoption, collective action in dairy production, and gender gap in agricultural wages. 
 
-My research fields include development economics, political economics, and applied econometrics. 
+My research fields include development economics, political economics, environment and resource economics, and applied econometrics. 
 
 I will be on the 2019-2020 job market and available for interviews at the ASSA meetings in San Diego.
 
