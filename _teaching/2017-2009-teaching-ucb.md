@@ -8,6 +8,9 @@ date: 2017-12-31
 location: "Berkeley, USA"
 excerpt: 'Courses TA-ed at UC Berkeley (Agricultural Resource Economics, and Econonomics Departments)
 
+* Introduction to Environmental Economics (EEP 1/ECON 3), Spring 2020
+An undergraduate introductory course to economics with a focus on application to environmental questions.
+
 * International Economic Development Policy (AREC 253), Fall 2017
 
 A Masters level course in Development Economics. One of the core courses for Masters in Development Practice covering impact evaluation, applied game theory, measurement of poverty, and introduction to growth models. Problem sets included both analytical work as well as coding exercises in Stata/R.

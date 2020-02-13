@@ -67,7 +67,7 @@ Talks
 Skills
 ======
 * Statistical Packages: R, Stata
-* Programming Languages: Python, C++, and Java (from earlier life)
+* Programming Languages: Python
 * Languages: English (Fluent), Hindi (Fluent), Kannada (Native), Tamil (Basic)
 
 
