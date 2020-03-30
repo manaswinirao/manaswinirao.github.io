@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a doctoral candidate in Development Economics at the Department of Agricultural and Resource Economics, University of California at Berkeley. My research is at the intersection of development and institutional economics, focusing on the importance of judicial institutions on economic development in India. In addition, I also study the economics of governing natural resources within the context of local irrigation management in Telangana, India.
+I am a doctoral candidate in Development Economics at the Department of Agricultural and Resource Economics, University of California at Berkeley. Starting July 2020, I will be a Postdoctoral Scholar (Program on Indian Economy) at the Department of Economics, University of California at San Diego.
+
+My research is at the intersection of development and institutional economics, focusing on the importance of judicial institutions on economic development in India. In addition, I also study the economics of governing natural resources within the context of local irrigation management in Telangana, India.
 
 Another track of my research agenda focuses on agricultural markets, where I study technology adoption, collective action in dairy production, and gender gap in agricultural wages. 
 
 My research fields include development economics, political economics, environment and resource economics, and applied econometrics. 
-
-I will be on the 2019-2020 job market and available for interviews at the ASSA meetings in San Diego.
 
 
 <!-- A data-driven personal website
