@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
  <span style="color:blue">[Download CV here](http://manaswinirao.com/files/manaswini-cv-postdoc.pdf)</span>
 
-Education
+Employment
 ======
 * Postdoctoral Scholar, Department of Economics, University of California San Diego, 2020-
 
