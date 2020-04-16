@@ -8,7 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
- <span style="color:blue">[Download CV here](http://manaswinirao.com/files/manaswini-cv-jm.pdf)</span>
+ <span style="color:blue">[Download CV here](http://manaswinirao.com/files/manaswini-cv-postdoc.pdf)</span>
+
+Education
+======
+* Postdoctoral Scholar, Department of Economics, University of California San Diego, 2020-
 
 Education
 ======
@@ -19,32 +23,13 @@ Education
 
 Honors and Awards
 ======
-* UC Berkeley Conference Travel Grant, US$ 900, 2019
-* The Jean O. Lanjouw Memorial Endowment, US$ 757, 2019
-* IRLE Graduate Student Research Award, US$ 6000, with Vaishnavi Surendra, 2018
-* World Bank Proposal Development Grant, US$ 30000, with Xavier Gine, Aprajit Mahajan, and Anup Malani, 2018
-* ATAI Grant, US$ 223,565, with Aprajit Mahajan, Xavier Gine, and Anup Malani, 2017
-* Tata Center for Development (UChicago), US$ 250,000, with Anup Malani, Aprajit Mahajan, and Xavier Gine, 2017
-* IGC Grant, £50,000 with Aprajit Mahajan (PI), 2017
-* Levin Family Fellowship, US$ 800, with Louis Peronas and Fiona Burlig, 2015
-* Maharaj Kaul Research Travel Grant 2015, US$ 1000
-* USAID DIV Award, US$99,632, with Arun Chandrasekhar, Emily Breza and Ashish Shenoy,
-2013
-* Berkeley International Office Graduate Student Fellowship, 2009, 2010
-* Jacob K. Javits Summer Fellowship, 2009
+* 2020: The World Bank Research Grant, US$ 124,490, with Xavier Gine, Aprajit Mahajan, and Anup Malani
+* 2019: UC Berkeley Conference Travel Grant, US$ 900; The Jean O. Lanjouw Memorial Endowment, US$ 757
+* 2018: IRLE Graduate Student Research Award, US$ 6000, with Vaishnavi Surendra; The World Bank Proposal Development Grant, US$ 30000, with Xavier Gine, Aprajit Mahajan, and Anup Malani, 2018
+* 2017: ATAI Grant (US$ 223,565) and Tata Center for Development at UChicago (US$ 250,000) - joint with Aprajit Mahajan, Xavier Gine, and Anup Malani; IGC Grant, £50,000 with Aprajit Mahajan (PI)
+* 2015: Levin Family Fellowship, US$ 800, with Louis Peronas and Fiona Burlig; Maharaj Kaul Research Travel Grant 2015, US$ 1000
+* Earlier: USAID DIV Award (2013), US$99,632, with Arun Chandrasekhar, Emily Breza and Ashish Shenoy; Berkeley International Office Graduate Student Fellowship (2009, 2010); Jacob K. Javits Summer Fellowship (2009)
   
-  
-Academic Experience
-======
-* University of California, Berkeley, Graduate Student Researcher
-  * Alain de Janvry and Elisabeth Sadoulet, 2015-Present
-  * Aprajit Mahajan, 2016-Present
-  * Emily Breza, and Supreet Kaur, Spring 2017
-* University of California, Berkeley, Graduate Student Instructor
-  * International Economic Development Policy (Masters Level), Fall 2017
-  * Economic Development (Senior Undergraduate Level), Fall 2016
-  * Macroeconomic Analysis (Intermediate Undergraduate Level), Spring 2010
-  * Economic History (Intermediate Undergraduate Level), Fall 2009
 
 <!-- Research
 ======
