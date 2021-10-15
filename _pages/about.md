@@ -11,7 +11,7 @@ I am an applied economist with interests in development economics, economics of 
 
 In addition, I also study the economics of governing natural resources (irrigation) and joint production within the context of agriculture.
 
-I received my PhD from the Department of Agricultural and Resource Economics, University of California at Berkeley. Starting July 2020, I will be a Postdoctoral Scholar (Program on Indian Economy) at the Department of Economics, University of California at San Diego.
+I am currently a postdoctoral scholar at the Department of Economics, University of California San Diego. I received my PhD from the Department of Agricultural and Resource Economics, University of California at Berkeley in May 2020.
 
 
 <!-- A data-driven personal website
