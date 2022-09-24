@@ -7,11 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an applied economist with interests in development economics, economics of institutions, corporate finance, and organizational economics. I have spent the last few years studying the functioning of the judiciary in the context of India, and how judicial capacity in courts of first instance affects bank lending and subsequently, firm growth.
+I am an applied economist with interests in development economics, economics of institutions (political economy) and organization structures in agricultural production. My research can be classified into two major buckets. First, I study the role of frontline judiciary (for e.g., district or county courts) and broader dispute resolution institutions in the economic development process. Second, I examine collective action and coordination in improving agricultural productivity in the context of smallholder agricultural production. This spans farmer producer organization structures, access to and management of local irrigation resources, and larger structural transformation process of moving from agricultural production into urban and/or non-agricultural sectors.
 
-In addition, I also study the economics of governing natural resources (irrigation) and joint production within the context of agriculture.
-
-I am currently a postdoctoral scholar at the Department of Economics, University of California San Diego. I received my PhD from the Department of Agricultural and Resource Economics, University of California at Berkeley in May 2020.
+I am currently a postdoctoral scholar at the Department of Economics, University of California San Diego. I received my PhD from the Department of Agricultural and Resource Economics, University of California at Berkeley in May 2020. I will be on the 2022-23 job market and available for interviews.
 
 
 <!-- A data-driven personal website
