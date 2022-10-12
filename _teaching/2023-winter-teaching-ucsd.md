@@ -1,7 +1,7 @@
 ---
 title: "University of California, San Diego"
 collection: teaching
-type: "Instructor"
+type: "Lecturer"
 permalink: /teaching/2023-winter-teaching-ucsd
 venue: "University of California, San Diego"
 date: 2022-01-01
