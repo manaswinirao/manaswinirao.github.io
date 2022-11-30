@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
- <span style="color:blue">[Download CV here](http://manaswinirao.com/files/manaswini-cv-postdoc.pdf)</span>
+ <span style="color:blue">[Download CV here](https://manaswinirao.com/files/manaswini-cv-postdoc.pdf)</span>
 
-<span style="color:blue">[Research Statement](http://manaswinirao.com/files/research_statement_rao.pdf)</span>
+<span style="color:blue">[Research Statement](https://manaswinirao.com/files/research_statement_rao.pdf)</span>
 
-<span style="color:blue">[Teaching Statement](http://manaswinirao.com/files/teaching_statement_rao.pdf)</span>
+<span style="color:blue">[Teaching Statement](https://manaswinirao.com/files/teaching_statement_rao.pdf)</span>
 
 Employment
 ======
