@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
- <span style="color:blue">[Download CV here](https://manaswinirao.com/files/manaswini-cv-postdoc.pdf)</span>
+ <span style="color:blue">[Download CV here](https://manaswinirao.com/files/manaswini-cv-udel.pdf)</span>
 
 <span style="color:blue">[Research Statement](https://manaswinirao.com/files/research_statement_rao.pdf)</span>
 
@@ -16,7 +16,8 @@ redirect_from:
 
 Employment
 ======
-* Postdoctoral Scholar, Department of Economics, University of California San Diego, 2020-
+* Assistant Professor, Department of Economics, University of Delaware, 2023-
+* Postdoctoral Scholar, Department of Economics, University of California San Diego, 2020-2023
 
 Education
 ======

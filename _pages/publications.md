@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Working Papers and Projects"
+title: "Published, Working Papers, and Projects"
 permalink: /publications/
 author_profile: true
 ---
