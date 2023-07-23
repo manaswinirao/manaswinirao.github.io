@@ -1,12 +1,12 @@
 ---
-title: "University of California, San Diego"
+title: "University of Delaware"
 collection: teaching
-type: "Lecturer"
+type: "Assistant Professor"
 permalink: /teaching/2023-winter-teaching-ucsd
-venue: "University of California, San Diego"
+venue: "University of Delaware"
 date: 2022-01-01
-location: "La Jolla, CA"
-excerpt: 'Instructor for Undergraduate Course in Development Economics for Winter Quarter 2023'
+location: "Neward, DE"
+excerpt: 'Intermediate Microeconomics with Calculus'
 ---
 
 
