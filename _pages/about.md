@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a development economist with research interests in the economics of legal institutions (political economy), and organization structures in agricultural production. My research can be classified into three major buckets. First, I study the role of frontline judiciary (for e.g., district or county courts) and broader dispute resolution institutions in the economic development process. Second, I examine collective action and coordination in improving agricultural productivity in the context of smallholder agricultural production. This spans farmer producer organization structures, technology diffusion, and access to and management of local irrigation resources. Third, I study structural transformation process of moving from agricultural production into urban and/or non-agricultural sectors from the lens of rural land inequality.
 
-I am currently a postdoctoral scholar at the Department of Economics, University of California San Diego. I will be starting as an Assistant Professor at the University of Delaware, Department of Economics in August 2023.
+I will be starting as an Assistant Professor at the University of Delaware, Department of Economics in August 2023.
 
 
 <!-- A data-driven personal website
