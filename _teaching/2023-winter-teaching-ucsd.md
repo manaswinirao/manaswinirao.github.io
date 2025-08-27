@@ -8,9 +8,7 @@ date: 2022-01-01
 location: "Newark, DE"
 excerpt: 'Courses at the Econ department
 
-* Intermediate Microeconomic Theory with Calculus (Undergraduate Core Course)
-
-* Graduate Development Economics (PhD Field Course)'
+* Intermediate Microeconomic Theory with Calculus (Undergraduate Core Course)'
 paperurl: 'https://manaswinirao.com/files/Fall2025_Econ301_syllabus.pdf'
 ---
 
