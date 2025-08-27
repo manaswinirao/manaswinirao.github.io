@@ -11,4 +11,7 @@ excerpt: 'Courses at the Econ department
 * Intermediate Microeconomic Theory with Calculus (Undergraduate Core Course)
 
 * Graduate Development Economics (PhD Field Course)'
+paperurl: 'https://manaswinirao.com/files/Fall2025_Econ301_syllabus.pdf'
 ---
+
+<span style="color:blue">[Download syllabus here](https://manaswinirao.com/files/Fall2025_Econ301_syllabus.pdf)</span>
