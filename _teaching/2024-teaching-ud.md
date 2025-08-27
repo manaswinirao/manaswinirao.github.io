@@ -8,5 +8,6 @@ date: 2022-02-01
 location: "Newark, DE"
 excerpt: 'Courses at the Econ department
 
-* Graduate Development Economics (PhD Field Course) <span style="color:blue">[Link to Syllabus.](https://manaswinirao.com/files/F2025_Econ846_syllabus.pdf)</span>'
+* Graduate Development Economics (PhD Field Course) <span style="color:blue">[Link to Syllabus.](https://manaswinirao.com/files/F2025_Econ846_syllabus.pdf)</span>
+* Intermediate Microeconomic Theory with Calculus (Undergraduate Core Course) <span style="color:blue">[Link to Syllabus.](https://manaswinirao.com/files/Fall2025_Econ301_syllabus.pdf)</span>'
 ---
