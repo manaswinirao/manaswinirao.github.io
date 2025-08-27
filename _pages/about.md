@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am an Assistant Professor of Economics at the Alfred Lerner College of Business and Economics, University of Delaware. My primary fields of interest are development economics, organizational economics, and the economics of institutions with a focus on legal and judicial institutions. My research can be classified into three major buckets. First, I study the role of frontline judiciary (for e.g., district or county courts) and broader dispute resolution institutions in the economic development process. Second, I examine collective action and coordination in improving agricultural productivity in the context of smallholder agricultural production. This spans farmer producer organization structures, technology diffusion, and access to and management of local irrigation resources. Third, I study structural transformation process of moving from agricultural production into urban and/or non-agricultural sectors from the lens of rural land inequality.
 
-I am a faculty affiliate at J-PAL and an external faculty affiliate at the 21st Century India Center, UC San Diego. I co-organize a virtual junior scholar seminar on the [Indian Economy](https://india.ucsd.edu/events/seminar-series.html).
+I am a faculty affiliate at J-PAL and an external faculty affiliate at the 21st Century India Center, UC San Diego, and GAP Initiative at the Northeastern University. I co-organize a virtual junior scholar seminar on the [Indian Economy](https://india.ucsd.edu/events/seminar-series.html).
 
 
 <!-- A data-driven personal website
