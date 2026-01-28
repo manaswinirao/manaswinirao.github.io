@@ -227,7 +227,7 @@ defaults:
  # _workingpapers
   - scope:
      path: ""
-     type: research
+     type: workingpapers
     values:
      layout: single
      author_profile: true
